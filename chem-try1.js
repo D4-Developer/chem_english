@@ -1,3 +1,5 @@
+console.log("runninggggggggggggggggggggggg");
+
 const greenOutline = (t) => {
 	t.style.outline = "3px dashed green"; setTimeout(() => t.style.outline = "none", 500)
 };
